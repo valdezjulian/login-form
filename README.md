@@ -3,7 +3,7 @@
   Esta é uma jornada visualmente cativante, que busca proporcionar uma experiência de usuário única e agradável durante o processo de login. 
   O projeto foi desenvolvido focando em elementos interativos e redução de erros em tempo real.</p>
 <br>
-🔗 <a href="https://devclub-netflix.vercel.app/">Clique aqui para acessar o projeto</a> 
+🔗 <a href="https://first-login-form.vercel.app/">Clique aqui para acessar o projeto</a> 
 <br>
 <img src="desktop-login-form.jpg" alt="imagem-desktop"/>
 <br>
