@@ -7,9 +7,11 @@
 <br>
 <img src="desktop-login-form.jpg" alt="imagem-desktop"/>
 <br>
-<h2>• Tecnologias utilizadas para a construção da aplicação:</h2>
+<h2>Tecnologias utilizadas para a construção da aplicação:</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=logo-html"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=logo-css"/>
+<br>
+<img src="mockup-login-form.png" alt="img-mockup"/>
 <br>
 <h3>Recursos Únicos:</h3>
 •<b> Efeito Glassmorphism:</b>
@@ -21,4 +23,4 @@
 <a href="https://www.linkedin.com/in/valdezjulian/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.logo"/></a>
 <br>
 <br>
-<img src="mockup-login-form.png" alt="img-mockup"/>
+
