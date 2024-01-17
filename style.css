@@ -140,3 +140,23 @@ button:hover {
 .register p a:hover {
     text-decoration: underline;
 }
+
+footer {
+    padding: 1.0rem;
+    width: 100%;
+    position: fixed;
+    margin-top: auto;
+    bottom: 0;
+    text-align: center;
+    color: #ffffff;
+    background:  linear-gradient(90deg, #2B0341, #CB66A0, #0257A2); ;
+}
+  
+h2 {
+    color: #ffffff;
+    font-size: 100%;
+}
+  
+a {
+    color: #ffffff;
+}
