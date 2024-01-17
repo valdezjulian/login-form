@@ -142,10 +142,9 @@ button:hover {
 }
 
 footer {
-    padding: 1.0rem;
+    padding: 1.3rem;
     width: 100%;
     position: fixed;
-    margin-top: auto;
     bottom: 0;
     text-align: center;
     color: #ffffff;
